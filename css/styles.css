@@ -136,7 +136,7 @@ body {
 
 /* Screen size more than 1000px, fix the width so the whole
    content soesn't look flat */
-@media (min-width: 1000px) {
+@media (min-width: 1100px) {
     .main {
         max-width: 1000px;
     }
